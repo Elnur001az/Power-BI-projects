@@ -1,24 +1,13 @@
-Deməli belə, bu dəfə ki data : İMDB platformasında olan TOP 100 reytinqli filmlər barəsindədir. 
+So, this time the data is among the TOP 100 rated movies on the IMDB platform.
 
-Filmlər : (1931-2023)-cü illəri əhatə edir və ümumilikdə 10 müxtəlif ölkəyə aid olduğu məlumdur.
+Films: (1931-2023) - These years are included and it is known that they belong to 10 different countries in general.
 
-Burada 4 kateqoriya üzrə araşdırma apardım:
+Here, I conducted research on 4 categories: 1) Among the Top 100 IMDB movies: Average Ratings on Countries. The country that takes the first place in the rating table is "United Kingdom" with 8.61 times. Then, "Italy" takes the 2nd place and "United States" takes the 3rd place.
 
-1) Top 100 İMDB filmlər arasında: Ölkələr üzrə Reytinq ortalaması
-	
-	Reytinq tablosunda ilk yerə sahib olan ölkə 8.61 xalla "United Kingdom" başçılıq
-	edir. Ardınca, 2-ci yeri "İtaly" , 3-cü yeri isə "United States" tutur.
+2) Among the Top 100 IMDB movies: Number of movie releases by country. In this table, "United States" maintained its leadership with a record number of movies, "77". It is the "United Kingdom" that does not follow it very closely but has decided on the 2nd place. The third place is occupied by the movie "6" and "Japan".
 
-2)Top 100 İMDB filmlər arasında: Ölkələr üzrə film buraxılışlarının sayı
-	
-	Bu tabloda isə "77" rekord film sayı ilə "United States" öz liderliyini qoruyub saxlayıb. Onu çoxda yaxından izləməyən ama 2-ci yerdə qərarlaşan "United Kingdom"-dur. 3-cü yeri isə "6" film ilə "Japan" tutur. 
+3) Among the top 100 IMDB movies: Average rating over the years. In this table, we see "1972" as the most auspicious movie year, with an average rating of "9.20". This movie also belongs to the "United States" and was shot in the "Crime, Drama" genre. This movie is, in my opinion, the movie "The Godfather" that is familiar to everyone.
 
-3) Top 100 İMDB filmlər arasında: İllər üzrə reytinq ortalaması
+4) Among the top 100 IMDB movies: Among the many movie genres, it is interesting that the 1st place is occupied by the "Drama" genre with exactly "8" movies. The 2nd place is occupied by the movies "Crime" and "Drama" with the number "7", which are not very different. The third place is occupied by "Action, Adventure and Drama" with the number "5".
 
-	Bu tabloda isə ortalama "9.20" xalla ən uğurlu film ili olaraq "1972" ili görürük. Bu film də "United States"-ə aid olub və "Crime, Drama" janrında çəkilmişdir. Bu film isə məncə hamıya tanış olan " The Godfather" filmidir. 
-
-4)Top 100 İMDB filmlər arasında: Film janrları arasında çoxluq təşkil edənlər
-
-	Maraqlıdır ki, 1-ci yeri tam "8" filmlə "Drama" janrı tutur. 2-ci yeri çoxda fərqli olmayan "7" sayla "Crime" və "Drama" filmi tutur. 3-cü yeri isə "5"  sayla "Action,Adventure and Drama" tutur. 
-
-	Ümumilikdə baxsaq, uğurlu olan filmlərin çoxluğunu drama janrı əhatə edir.
+ Generally speaking, most of the lucky movies are in the drama genre.
